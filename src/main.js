@@ -1,3 +1,7 @@
+
+
+//controla o que entra e sai da tela!
+
 import Vue from 'vue'
 import App from './App.vue'
 
